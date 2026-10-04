@@ -240,7 +240,7 @@ The node logs each detection in the following format:
 
 ### Demo Video
 
-![Demo](assets/demo2.gif)
+![Demo](assets/demo.gif)
 
 ---
 
