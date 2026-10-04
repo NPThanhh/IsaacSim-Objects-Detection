@@ -255,3 +255,10 @@ The node logs each detection in the following format:
 ## 📄 License
 
 This project is open and free for everyone to use, modify, and distribute. No restrictions.
+
+
+
+## Support
+
+If you encounter any issues while using this project, please feel free to contact me via email so we can discuss and resolve them.
+nguyenphucthanh0807@gmail.com
