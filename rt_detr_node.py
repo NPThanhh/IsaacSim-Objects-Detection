@@ -21,7 +21,7 @@ class RTDETRNode(Node):
         # Load RT-DETR model
         # =========================
         self.model = RTDETR(
-            "/home/npthanh/ros2_ws/src/camera_yolo/models/best.pt"
+            "/home/npthanh/IsaacSim-Objects-Detection/models/best.pt"
         )
 
         # =========================
