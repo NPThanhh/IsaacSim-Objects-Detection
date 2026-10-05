@@ -237,6 +237,7 @@ The node logs each detection in the following format:
 ![Detection 2](assets/image2.png)
 ![Detection 3](assets/image3.png)
 ![Detection 4](assets/image4.png)
+![Detection 5](assets/image5.png)
 
 ### Demo Video
 
